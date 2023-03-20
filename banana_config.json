@@ -1,0 +1,15 @@
+{
+    "name": "ControlNet-canny",
+    "category": "Computer Vision",
+    "example_input": {
+        "prompt": "rihanna best quality, extremely detailed",
+        "negative_prompt": "monochrome, lowres, bad anatomy, worst quality, low quality",
+        "num_inference_steps": 20,
+        "image_data": "<IMG_DATA_BASE64>"
+    },
+    "example_output": {
+      "canny_base64": "<IMG_DATA_BASE64>",
+      "image_base64": "<IMG_DATA_BASE64>"
+    },
+    "version": "1"
+  }
