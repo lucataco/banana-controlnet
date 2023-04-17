@@ -11,5 +11,5 @@
       "canny_base64": "<IMG_DATA_BASE64>",
       "image_base64": "<IMG_DATA_BASE64>"
     },
-    "version": "1"
+    "version": "2"
   }
