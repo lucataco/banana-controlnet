@@ -55,7 +55,7 @@ def inference(model_inputs:dict) -> dict:
         prompt,
         canny_image,
         negative_prompt=negative_prompt,
-        num_inference_steps=20
+        num_inference_steps=num_inference_steps
     )
 
     image = output.images[0]
