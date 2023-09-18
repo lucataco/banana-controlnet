@@ -4,3 +4,4 @@ transformers==4.27.1
 xformers==0.0.16
 accelerate
 triton==2.0.0.post1
+potassium
